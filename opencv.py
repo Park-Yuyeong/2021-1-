@@ -59,3 +59,6 @@ def LaneRecognition():
 
     cv.waitKey(0)
     cv.destroyAllWindows()
+
+LaneRecognition()
+
